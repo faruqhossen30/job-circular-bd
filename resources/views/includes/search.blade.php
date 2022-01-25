@@ -28,7 +28,7 @@
 @else
 <div class="searchwrap">
     <div class="container">
-        <h3>{{__('One million success stories')}}. <span>{{__('Start yours today')}}.</span></h3>
+        <h3>{{__('Search Your Dream Job')}}. <span>{{__('Start yours today')}}.</span></h3>
 
         @include('includes.search_form')
 
